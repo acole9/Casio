@@ -2,7 +2,7 @@
 
 ## Project Members:
 
-- **Team Name:** Auto Enthusiasts
+- **Team Name:** Casio
 - **Team Member:** Abraham Cole
 
 ## Quick View
