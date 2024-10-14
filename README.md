@@ -7,7 +7,7 @@
 
 ## Quick View
 
-- **Website Name:** Car Enthusiast Hub
+- **Website Name:** Car Hub
 - **Website Purpose:** To provide a platform for car enthusiasts to explore car models, reviews, and maintenance tips, while engaging with car-related media content such as images and videos.
 - **Intended Audience:** Car enthusiasts, car buyers, mechanics, and automotive hobbyists.
 - **Frameworks and/or Library Used:** HTML, CSS (Bootstrap), JavaScript
